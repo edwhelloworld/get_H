@@ -9,7 +9,7 @@
 #include <iostream>
 using namespace std;
 using namespace cv;
-int n_boards = 0;
+
 int board_w;
 int board_h;
 
@@ -103,7 +103,7 @@ int main(int argc, char* argv[]) {
 //
 //	vector<Point3f> objVtrPts;
 //	Mat objVtrPtsM;
-//	objVtrPts.push_back(Point3f(0, 0, 0));    //三维坐标的单位是毫米
+//	objVtrPts.push_back(Point3f(0, 0, 0));    //脠媒脦卢脳酶卤锚碌脛碌楼脦禄脢脟潞脕脙脳
 //	objVtrPts.push_back(Point3f((board_w - 1), 0, 0));
 //	objVtrPts.push_back(Point3f(0, (board_h - 1), 0));
 //	objVtrPts.push_back(Point3f((board_w - 1), (board_h - 1), 0));
